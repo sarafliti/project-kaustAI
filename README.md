@@ -155,27 +155,6 @@ The methodology combines **data-driven sequence modeling** with **in silico immu
 - **Trimmed 9-mers:** strong nanomolar binding affinities and presentation scores.  
 - **Figures:** heatmaps, bar plots, scatter plots, and safety distribution charts.  
 
-## Repository Structure
-├── data/
-│ ├── peptideTLR4data.csv # IEDB input
-│ ├── uniref102K.fasta # UniRef negatives
-│ └── processed/ # Cleaned corpus
-│
-├── notebooks/
-│ └── Finalnotebook.ipynb # Main pipeline notebook
-│
-├── runs/
-│ ├── peptidegpt/ # Fine-tuning outputs
-│ ├── metrics/ # Training and generation metrics
-│ └── samples/ # Candidate peptides & rankings
-│
-├── figures/ # Heatmaps, bar charts, scatter plots
-│
-├── requirements.txt
-└── README.md
-
-## Installation
-
 Clone the repository:
 
 ```bash
