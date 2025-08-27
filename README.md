@@ -238,7 +238,7 @@ All peptides must be **experimentally validated** before any translational or cl
 If you use this repository, please cite:
 
 **Author:** Sara Al Fliti, Amjad Alqahtani, Shahla Alshaar, Yomna Ali, Fatimah Alhassan   
-**Title:** *AI-driven Design of TLR4-targeted Peptide Adjuvants with PeptideGPT* (2025)
+**Title:** *AI-Driven Design of Universal Peptide Adjuvants for Cost-Effective Vaccines* (2025)
 
 
 
