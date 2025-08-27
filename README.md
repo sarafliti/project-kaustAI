@@ -28,12 +28,9 @@ The pipeline produces **validated, ranked peptide candidates** that are:
 
 ## 📊 Results Summary  
 
-- **50 peptides generated** by PeptideGPT  
+- **50 parent peptides generated** by PeptideGPT  
 - ~**90% predicted non-toxic** (ToxinPred)  
 - Filtering + ranking → **7 top parent candidates**  
 - MHCflurry trimmed peptides to **9-mers** → ensured **MHC-I compatibility**  
 - Final shortlist includes strong **antigenic, safe 9-mers** with nanomolar binding affinities to common HLA alleles (e.g., HLA-A*02:01, HLA-B*27:05)  
-
-
-## 📂 Repository Structure  
 
