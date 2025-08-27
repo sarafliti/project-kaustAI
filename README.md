@@ -161,7 +161,7 @@ Clone the repository:
 git clone https://github.com/your-username/tlr4-peptidegpt.git
 cd tlr4-peptidegpt
 pip install -r requirements.txt
-
+```
 ## Dependencies
 
 This project requires the following packages:
@@ -191,7 +191,7 @@ Open and execute the notebook:
 
 ```bash
 notebooks/Finalnotebook.ipynb
-
+```
 ### 3. Pipeline Steps
 
 - Fine-tune `PeptideGPT_non_hemolytic`
